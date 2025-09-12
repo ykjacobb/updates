@@ -1,11 +1,11 @@
 {
+  "notes": "",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTlExQ2tIY1NXeDFYUS9RK2lqcUpYTXNzdE85dVR1TWd5azQvVE5XZkIyalJEQ2QrYnlPdElEY2VhdzB5NjY2Z0ZUc25tbkptZVo3Mm9xV2RVaU9Ib0hKT3IxeXJIREFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3NjYyMDI2CWZpbGU6TG9jayBJbl8wLjEuNDJfeDY0LXNldHVwLmV4ZQo5SlJNdjNZV2JiVkJvVDlpTmNUN05nM0p4OHNCcGo1eS83akg3ZWRSaUVmMEZlVmlnTjE1bFNaNENQcnBrM3M1OE85WmF3eTJkMDdNWXNRb2NXWWhBQT09Cg==",
-      "url": "https://github.com/ykjacobb/lock-in/releases/download/v0.1.42/Lock%20In_0.1.42_x64-setup.exe"
+      "url": "https://ykjacobb.github.io/updates/Lock%20In_0.1.43_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTlExQ2tIY1NXeDZvdEpCTHhZa2VGcksrclpNbFdpUG4rZzRNaEY3ZEtQUzJ1VlB2WVhwNHQrM1h5QTBTb3Z1VTBhVmhsVVBFVHRUY2dWcHMxamxJbXVPd1lkVTN2SkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3NjkxNTE5CWZpbGU6TG9jayBJbl8wLjEuNDNfeDY0LXNldHVwLmV4ZQpGeE5OWU9GUnFNbERScGQ3K01Qb1J5MVdhbk5ZMW9sWm5MUitPWXd4d210UzhVWkZ5a3VwYUVtZkVteGlwaEY3Rk9yczNGYzFPVXkrOXVQVnN3d0pDdz09Cg=="
     }
   },
-  "version": "0.1.42",
-  "notes": "",
-  "pub_date": "2025-09-12T07:27:08Z"
+  "version": "0.1.43",
+  "pub_date": "2025-09-12T15:38:42Z"
 }
